@@ -40,7 +40,7 @@ No complex installation is required. Simply clone or download the repository and
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/NewtonY-dev/SnakeGame.git
     cd newtony-dev-snakegame
     ```
 2.  **Open the game:**
